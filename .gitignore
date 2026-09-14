@@ -1,0 +1,32 @@
+# NetBeans build artifacts
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# NetBeans private/local settings (machine-specific, shouldn't be shared)
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# JAR/WAR files (build output — not the same as vendored dependency jars)
+*.jar
+*.war
+*.ear
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE junk from other editors, in case you switch later
+.idea/
+*.iml
+.vscode/
